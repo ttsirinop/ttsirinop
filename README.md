@@ -1,6 +1,5 @@
 ### Hello, I'm Thitti Sirinopwongsagon 👋
 
-- 🌱 I’m currently learning C++ and Java
-- 💬 Ask me about Elastic Stack and Python
+- 🌱 I’m currently learning C++
+- 💬 Ask me about Java, Python, and Elastic Stack
 - 📫 How to reach me: ttsirinop@gmail.com
-
